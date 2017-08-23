@@ -1,0 +1,9 @@
+name: "teja-website"
+output_dir: "."
+navbar:
+  title: "Tejaswi Malepati"
+  left:
+    - text: "My Work"
+      href: index.html
+    - text: "About"
+      href: about.html

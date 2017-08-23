@@ -1,0 +1,24 @@
+---
+title: "About"
+output: html_document
+---
+
+I am a Data Scientist specialized in identifying and analyzing different patterns in single or multiple combinations of data sets using **R, Python, Spark** and **Cassandra**.
+
+Built:
+
+* Real time data streaming framewrok from Cassandra to Hadoop using Kafka and Apache Storm for analytics.
+* Framework for validating Data consistency between 2 databases.
+
+Refer [LinkedIn](https://linkedin.com/in/tmalepati) for further information.
+
+#### TECHNICAL SKILLS
+Catogery | Name
+--------------|-----------------------------------------------------------------------------
+Analytical | Spark
+Languages | R, Python, Bash, Markdown, HTML5, CSS3
+Databases | Cassandra, MongoDB, Oracle, MySQL
+Packages  | dplyr, tidyr, caret, stats, rmarkdown, knitr, shiny
+Visualization | ggplot, Grafana, Kibana
+Cluster Management | Jupyter, Rundeck, Mesos, Marathon, Chronos, Consul, Sensu, JMXTrans, Telegraph, InfluxDB, Drone, Docker
+Automation | Chef
