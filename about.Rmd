@@ -10,11 +10,12 @@ Built:
 * Real time data streaming framewrok from Cassandra to Hadoop using Kafka and Apache Storm for analytics.
 * Framework for validating Data consistency between 2 databases.
 
-Refer [LinkedIn](https://linkedin.com/in/tmalepati) for further information.
+Refer **[LinkedIn](https://linkedin.com/in/tmalepati)** for further information.
+<br></br>
 
-#### TECHNICAL SKILLS
+#### Technical Skills
 Catogery | Name
---------------|-----------------------------------------------------------------------------
+----------------|-----------------------------------------------------------------------------
 Analytical | Spark
 Languages | R, Python, Bash, Markdown, HTML5, CSS3
 Databases | Cassandra, MongoDB, Oracle, MySQL
