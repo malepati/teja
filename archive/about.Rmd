@@ -1,12 +1,6 @@
-<style type="text/css">
-h1.title {
-  text-align: center;
-}
-</style>
 ---
-title: Tejaswi Malepati
+title: "About"
 output: html_document
-runtime: shiny
 ---
 <table>
 <tr><td>
@@ -18,8 +12,8 @@ Built:
 * Framework for validating Data consistency between 2 databases.
 
 Refer **[LinkedIn](https://linkedin.com/in/tmalepati)** for further information.
-</td><td align='center'>
-Technical Skill Set
+</td><td>
+Technical Skill Set:
 ```{r eval=T, echo=F, message=F}
 library(dplyr)
 library(wordcloud)
