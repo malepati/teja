@@ -4,13 +4,13 @@ h1.title {
 }
 </style>
 ---
-title: Tejaswi Malepati
+title: Tej Malepati
 output: html_document
 runtime: shiny
 ---
 <table>
 <tr><td>
-I am a Data Scientist specialized in identifying and analyzing different patterns in single or multiple combinations of data sets using **R, Python, Spark** and **Cassandra**.
+I am a NoSQL Leader, Author and SME with expertise in designing, building, and maintaining Database products along with its strategic vision and roadmaps being on par with the latest technological trends with 11+ years of IT experience. Specialized in automated cloud deployments and maintaining highly scalable live Cassandra, JanusGraph, MongoDB, Elasticsearch and Redis database clusters using RPMs, Docker, LOCI, Vela, Rundeck, Kubernetes, Helm, Drone, Spinnaker and Ansible.
 
 Built:
 
@@ -28,8 +28,8 @@ colnames(p) = c('name')
 p = p %>%
   mutate(size = ifelse(name %in% c('caret','broom','dplyr','tidyr','randomForest','wordcloud','gapminder','purrr','stats','rmarkdown','knitr','shiny'), 25, 9))
 
-name = c('R','Spark','Python','Cassandra','Oracle','MySQL','Grafana','Kibana','Jupyter','Rundeck','Mesos','Marathon','Chronos','Consul','Sensu','JMX Trans','InfluxDB','OpsCenter','Chef','Bash','HTML5','CSS3','MongoDB')
-size = c(35,35,29,28,28,28,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
+name = c('Cassandra','JanusGraph','Weaviate','Grafana','Kibana','MongoDB','Elasticsearch','Redis','R','Spark','Python','Oracle','MySQL','Jupyter','Rundeck','Consul','InfluxDB','Mesos','Marathon','Chronos','Sensu','JMX Trans','OpsCenter','Chef','Bash','HTML5','CSS3')
+size = c(36,35,35,35,35,35,32,32,32,32,32,30,30,30,30,27,27,1,1,1,1,1,1,1,1,1,1)
 
 p = rbind(p, data.frame(name,size))
 wordcloud(p$name,p$size, max.words = Inf, random.order = F, scale=c(3,.1), colors = brewer.pal(8,"Dark2"), rot.per = .3)
